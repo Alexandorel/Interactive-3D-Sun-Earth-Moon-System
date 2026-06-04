@@ -11,3 +11,7 @@ The core of the project focuses on two main graphics implementations:
 * **Python 3.x**: Used as the foundational programming language to handle the mathematical loops and kinematic update intervals.
 * **VPython (Visual Python)**: Chosen as the primary 3D graphics library. It handles the mapping of spherical coordinates, texturing matrices (such as planetary surface materials), camera vectors, and local light objects.
 * **WebGL**: The underlying graphics API utilized by VPython to execute hardware-accelerated WebGL code directly in the web browser, enabling smooth texture filtering and real-time shadow rendering.
+
+## Screenshots:
+
+![Project Screenshot](screenshot.png)
